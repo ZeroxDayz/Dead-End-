@@ -14,6 +14,4 @@ Commands:
 
 !profile.nick Name - Set profile Name
 
-
-
-![DeadEndGit](https://user-images.githubusercontent.com/114275999/197910918-1e6bf206-0513-4e77-b462-49e9146e287c.jpg)
+![Semi Priviate Use](https://user-images.githubusercontent.com/114275999/197913184-f2e1e70f-1185-44c5-9f7e-25e4e63885ad.png)
