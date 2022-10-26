@@ -5,7 +5,7 @@ Commands:
 
 !ping - Pong
 
-!link - Toggles telephone link
+!link - Toggles Server link
 
 !profile.img URL - Set profile Image
 
