@@ -1,5 +1,8 @@
 # Dead-End-
-Discord bot for ARG/TTRG
+Discord bot for ARG/TTRG/DND
+
+The bot links multiple channels from any server  
+
 
 Commands:
 
