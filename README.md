@@ -3,9 +3,13 @@ Discord bot for ARG/TTRG
 
 Commands:
 Help:
+
 !ping - Pong
+
 !link - Toggles telephone link
+
 !profile.img URL - Set profile Image
+
 !profile.nick Name - Set profile Name
 
 
