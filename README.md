@@ -2,7 +2,6 @@
 Discord bot for ARG/TTRG
 
 Commands:
-Help:
 
 !ping - Pong
 
